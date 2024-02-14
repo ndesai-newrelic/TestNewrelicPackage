@@ -1,0 +1,12 @@
+.vs
+.vscode
+android
+android_BurstDebugInformation_DoNotShip
+ios
+ios_BurstDebugInformation_DoNotShip
+Logs
+obj
+.vsconfig
+Library
+UserSettings
+*.csproj
